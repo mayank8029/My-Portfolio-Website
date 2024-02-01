@@ -12,16 +12,10 @@ Currently, two official plugins are available:
 
 Reactjs: https://react.dev/
 
-Framer-motion:
-
-documentation = https://www.framer.com/motion/introduction/ 
+Framer-motion-documentation = https://www.framer.com/motion/introduction/ 
 
 
-tailwindcss:
-
-documentation = https://tailwindcss.com/docs/installation
+tailwindcss-documentation = https://tailwindcss.com/docs/installation
 
 
-three.js
-
-documentation =  https://threejs.org/docs/index.html#manual/en/introduction/Installation
+three.js-documentation =  https://threejs.org/docs/index.html#manual/en/introduction/Installation
